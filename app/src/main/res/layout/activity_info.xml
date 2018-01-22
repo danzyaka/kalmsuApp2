@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2980b9"
+    tools:context="com.example.danzy.kalmsuapp.InfoActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="42dp"
+            android:src="@drawable/kalmsu" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_above="@+id/textView3"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="26dp"
+            android:gravity="center"
+            android:text="@string/info_block"
+            android:textColor="#ffffff"
+            android:textSize="25dp"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="0dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/textView5"
+            android:layout_alignParentStart="true"
+            android:gravity="center"
+            android:text="@string/info_block2"
+            android:textColor="#80ffffff"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:gravity="center"
+            android:text="@string/info_block3"
+            android:textColor="#80ffffff"
+            android:background="@color/color2"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+
+            android:layout_above="@+id/textView4"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="14dp"
+            android:gravity="center"
+            android:onClick="getKalmsu"
+            android:text="@string/info_block4"
+            android:textColor="#90ffffff"
+            android:textSize="16dp" />
+
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

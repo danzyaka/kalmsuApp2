@@ -1,0 +1,91 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* NOTICE
+* build.properties
+* build.xml
+* default.properties
+* docs\
+* docs\allclasses-frame.html
+* docs\allclasses-noframe.html
+* docs\com\
+* docs\com\larvalabs\
+* docs\com\larvalabs\svgandroid\
+* docs\com\larvalabs\svgandroid\ParserHelper.html
+* docs\com\larvalabs\svgandroid\SVG.html
+* docs\com\larvalabs\svgandroid\SVGParseException.html
+* docs\com\larvalabs\svgandroid\SVGParser.html
+* docs\com\larvalabs\svgandroid\package-frame.html
+* docs\com\larvalabs\svgandroid\package-summary.html
+* docs\com\larvalabs\svgandroid\package-tree.html
+* docs\constant-values.html
+* docs\deprecated-list.html
+* docs\help-doc.html
+* docs\index-all.html
+* docs\index.html
+* docs\overview-tree.html
+* docs\package-list
+* docs\resources\
+* docs\resources\inherit.gif
+* docs\serialized-form.html
+* docs\stylesheet.css
+* proguard.cfg
+* readme.txt
+* svg-android.jar
+* svgandroid.iml
+* svgandroid.ipr
+* tests\
+* tests\AndroidManifest.xml
+* tests\assets\
+* tests\assets\png\
+* tests\assets\png\gradients.png
+* tests\assets\png\shapes.png
+* tests\assets\png\strokes.png
+* tests\assets\png\transformations.png
+* tests\assets\svg\
+* tests\assets\svg\gradients.svg
+* tests\assets\svg\shapes.svg
+* tests\assets\svg\strokes.svg
+* tests\assets\svg\transformations.svg
+* tests\build.properties
+* tests\build.xml
+* tests\default.properties
+* tests\proguard.cfg
+* tests\src\
+* tests\src\com\
+* tests\src\com\larvalabs\
+* tests\src\com\larvalabs\svgandroid\
+* tests\src\com\larvalabs\svgandroid\test\
+* tests\src\com\larvalabs\svgandroid\test\SVGParserTest.java
+* tests\src\com\larvalabs\svgandroid\test\SVGTestPair.java
+* tests\tests.iml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => svgandroid\src\main\AndroidManifest.xml
+* res\ => svgandroid\src\main\res\
+* src\ => svgandroid\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

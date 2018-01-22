@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+MERGED from [:customtabs] C:\Android\kalmsuApp2\customtabs\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-24:12
+MERGED from [:shared] C:\Android\kalmsuApp2\shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bc97e719e7fe9a8fc7d629bd46eb3bf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\30fe69b905c170ccfce466744035c636\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\918588ef93524baa94c30ba027cb491e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6a459ecd6cb38f531fd64e90655723be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5950ced24c5fe5971c65f2b178f07879\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\36b184e431251eff1b8c1fd3400d89b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eeb16b45a42266df2ecf89f4ad54e816\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ce7953315e8beec856a53cfcb37136eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7c10b07751980e4300fdb033b051233e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\de76645a3c820ad8d5d04b89189f71a2\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:1-46:12
+	package
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:17:5-44
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [:customtabs] C:\Android\kalmsuApp2\customtabs\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-44
+MERGED from [:customtabs] C:\Android\kalmsuApp2\customtabs\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-44
+MERGED from [:shared] C:\Android\kalmsuApp2\shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [:shared] C:\Android\kalmsuApp2\shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bc97e719e7fe9a8fc7d629bd46eb3bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\bc97e719e7fe9a8fc7d629bd46eb3bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\30fe69b905c170ccfce466744035c636\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\30fe69b905c170ccfce466744035c636\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\918588ef93524baa94c30ba027cb491e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\918588ef93524baa94c30ba027cb491e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6a459ecd6cb38f531fd64e90655723be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6a459ecd6cb38f531fd64e90655723be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5950ced24c5fe5971c65f2b178f07879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\5950ced24c5fe5971c65f2b178f07879\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\36b184e431251eff1b8c1fd3400d89b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\36b184e431251eff1b8c1fd3400d89b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eeb16b45a42266df2ecf89f4ad54e816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\eeb16b45a42266df2ecf89f4ad54e816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ce7953315e8beec856a53cfcb37136eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\ce7953315e8beec856a53cfcb37136eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7c10b07751980e4300fdb033b051233e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7c10b07751980e4300fdb033b051233e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\de76645a3c820ad8d5d04b89189f71a2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\danzy\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\de76645a3c820ad8d5d04b89189f71a2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:21:5-23:41
+	android:targetSdkVersion
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:25:5-45:19
+MERGED from [:customtabs] C:\Android\kalmsuApp2\customtabs\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-20
+MERGED from [:customtabs] C:\Android\kalmsuApp2\customtabs\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:5-20
+MERGED from [:shared] C:\Android\kalmsuApp2\shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-20
+MERGED from [:shared] C:\Android\kalmsuApp2\shared\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:26:9-45
+	android:allowBackup
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:28:9-36
+	android:theme
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:29:9-53
+activity#org.chromium.customtabsclient.MainActivity
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:31:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:35:27-74
+service#org.chromium.customtabsclient.shared.KeepAliveService
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:38:9-40:38
+	android:exported
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:39:13-52
+receiver#org.chromium.customtabsclient.BrowserActionsReceiver
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:41:9-43:38
+	android:exported
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:42:13-80
+receiver#org.chromium.customtabsclient.BottomBarManager
+ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from C:\Android\kalmsuApp2\Application\src\main\AndroidManifest.xml:44:19-51

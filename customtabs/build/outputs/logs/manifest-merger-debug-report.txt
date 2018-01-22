@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:16:1-20:12
+INJECTED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:16:1-20:12
+INJECTED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:16:1-20:12
+	package
+		ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:17:11-47
+		INJECTED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml
+		INJECTED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:18:5-43
+	android:minSdkVersion
+		ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:18:15-41
+application
+ADDED from C:\Android\kalmsuApp2\customtabs\AndroidManifest.xml:19:5-20

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">КалмГУ</string>
+    <string name="activ_main_name">Новости</string>
+    <string name="info_activ_name">О приложении</string>
+    <string name="info_block">
+        <b>Приложение КалмГу</b>
+    </string>
+    <string name="info_block2">
+        <b>Разработчики:\nКекшаев Данзан\nИнджиев Аюш</b>
+    </string>
+    <string name="info_block3">
+        <b>Версия 1.0.0</b>
+    </string>
+    <string name="info_block4">
+        <u>Поосетить сайт КалмГУ</u>
+    </string>>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <integer name="com_vk_sdk_AppId">6300750</integer>
+</resources>

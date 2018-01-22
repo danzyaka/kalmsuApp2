@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\kalmsuApp2\\customtabs\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\danzy\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\7c10b07751980e4300fdb033b051233e\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

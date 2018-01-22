@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/news"
+            android:title="Новости" />
+        <item
+            android:id="@+id/nav_rasp"
+            android:icon="@drawable/rasp"
+            android:title="Расписание" />
+        <item
+            android:id="@+id/nav_3d"
+            android:icon="@drawable/gal3d"
+            android:title="3D галерея" />
+        <item
+            android:id="@+id/nav_calc"
+            android:icon="@drawable/calc"
+            android:title="Калькулятор ЕГЭ" />
+    </group>
+
+    <item android:title="Информация">
+        <menu>
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/info"
+                android:title="О программе" />
+        </menu>
+    </item>
+
+</menu>
